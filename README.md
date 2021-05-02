@@ -1,5 +1,4 @@
 # hello-world
-Some informations about me:
 
 I'm a 18 years old pretty boy who lives in Brazil and likes playing games (of course, nerd), watching TV series or Netflix, watches some animes too, likes cartoons, and wishes to 
 be a spetacular programmer. My favorite movie is Scott Pilgrim vs. The Universe, I like chicken sausage a LOT, and I love playing basketball. My experience with programming is 
